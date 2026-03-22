@@ -1,3 +1,2 @@
-
 #heading
-##sub heading 
+##sub heading
